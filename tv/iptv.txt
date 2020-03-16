@@ -169,12 +169,22 @@ CHC 动作电影,http://60.255.149.208/tslive/c213_scc_20190618_wzkayvu1_origina
 陕西 Ⅰ 西安丝路台,http://stream2.xiancity.cn/xatv5/sd/live.m3u8
 海外,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+凤凰咨询,http://liveali.ifeng.com/live/FHZX.m3u8#https://116.77.72.195/streams/d/fhzx/playlist.m3u8#http://117.169.120.138:8080/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx#http://live.centerch.com/fhzx.m3u8#http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE?DSJTV.m3u8
+凤凰电影,https://116.77.72.195/streams/d/fhdy/playlist.m3u8#https://116.77.72.195/streams/d/fhdy/playlist.m3u8
+星空卫视,https://116.77.72.195/streams/d/xkws/playlist.m3u8#http://183.238.77.9:9090/live/xingkong_1500.m3u8#http://220.158.149.14:9999/live/TV00000000000000000064@HHZT;LIVE?DSJTV.m3u8
+莲花卫视,http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8#http://220.158.149.14:9999/live/TV00000000000000000069@HHZT;LIVE?DSJTV.m3u8
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE?DSJTV.m3u8
+凤凰中文,http://liveali.ifeng.com/live/FHZW.m3u8#http://live.centerch.com/fhzw.m3u8#http://117.169.120.138:8080/live/fhchinese/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzw#http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE?DSJTV.m3u8
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
 峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 东方影视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
 无锡综合,http://live-wx.wifiwx.com/wxtv1/sd/live.m3u8
 无锡都市,http://live-wx.wifiwx.com/wxtv3/sd/live.m3u8
-三亚电视,http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
+有线新闻,http://107.148.215.110:888/v/tvb.php#http://wowgua.com/live/channel_109.m3u8
+无线翡翠,http://183.238.77.9:9090/live/xgfeicui_1500.m3u8#http://107.148.215.110:13164/play.m3u8?token=NP8uRvfI3PxWMm1HLRW9GkFd&tid=gt&id=1&p=
+无线明珠,http://183.238.77.9:9090/live/xgmingzhu_1500.m3u8
+无线新闻,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_inews.smil/playlist.m3u8?hdnea=st=1580229022~exp=1580315422~acl=/newslive/smil:mobilehd_inews.smil/*~hmac=698c6b12e2dc6649c803654707d1de023af7659ad4a7c8a698550a198fa0a54d#http://www.liveviptv.xyz/tv/tvb.php
+无线财经,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_finance.smil/playlist.m3u8?hdnea=st=1580229051~exp=1580315451~acl=/newslive/smil:mobilehd_finance.smil/*~hmac=ee73097cc2754578efea28b00e30579cdcbbe2bdfa5ae3d994a5174cbfbe15a0
 轮播,#genre#
 野食小哥,http://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8
 熊猫直播,https://mobilelive-play.ysp.cctv.cn/ysp/2001366601_hd.m3u8
