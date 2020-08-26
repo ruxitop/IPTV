@@ -1,0 +1,1 @@
+{"time":30,"interval":1000,"text":"欢迎收看随缘TV"}
